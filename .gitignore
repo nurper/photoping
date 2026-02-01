@@ -1,0 +1,17 @@
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+/.kotlin/
+/.android/
+captures/
+.jdks/
+
+# Python backend
+back/.venv/
+back/__pycache__/
+back/.pytest_cache/
+back/uploads/
+back/*.db
+back/*.sqlite

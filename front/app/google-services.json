@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402030151035",
+    "project_id": "photoping-82e90",
+    "storage_bucket": "photoping-82e90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402030151035:android:44dcecff5155c2b900e9de",
+        "android_client_info": {
+          "package_name": "com.photoping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2bLZtXIjcEHMiUIvbS-2c9MIpsBLvkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
